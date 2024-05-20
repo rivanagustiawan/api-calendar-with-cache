@@ -1,15 +1,13 @@
 API Calendar Holiday & Available date For husnavilla.com with cache file
 ==========================
 
-Demo: [https://rivanagustiawan.github.io/api-calendar-with-cache]
-
 ## ENDPOINTS
 
 ```
-GET https://rivanagustiawan.github.io/api-calendar-with-cache/api/calendar?month=5
+GET /api/calendar?month=5
 ```
 
-Contoh Response:
+Response:
 
 ```
 [
